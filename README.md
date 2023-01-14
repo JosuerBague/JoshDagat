@@ -14,10 +14,10 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=JoshDagat&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Welcome
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  
+  </div>
   ---
   
   ### About Me:
@@ -48,4 +48,4 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoshDagat&theme=dark&background=000000)](https://git.io/streak-stats)
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshDagat)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
