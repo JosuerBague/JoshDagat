@@ -23,7 +23,7 @@
   ### About Me:
   
   I am a budding developer from the Philippines.
-    - I am currently learning fullstack web development and data analytics.
+    - I am currently learning fullstack web development.
     - I usually go on Frontend Mentor where they have cool web designs to practice my skills.
     - In my spare time, I try out coding challenges in Codewars and Exercism.
   
